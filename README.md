@@ -72,7 +72,7 @@ Here are some ideas to get you started:
   <img src="https://raw.githubusercontent.com/github/explore/d73b58ded658144cd29547485b8537306012eb86/topics/elasticsearch/elasticsearch.png" alt="elasticsearch" width="40" height="40">
   </a>
     <a href="https://github.com/topics/kafka">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Apache_kafka_wordtype.svg/2560px-Apache_kafka_wordtype.svg.png" alt="kafka" width="40" height="40">
+  <img src="https://avatars.githubusercontent.com/u/47359?s=200&v=4" alt="kafka" width="40" height="40">
   </a>
    <a href="https://github.com/topics/rabbitmq">
   <img src="https://avatars.githubusercontent.com/u/96669?s=200&v=4" alt="rabbitmq" width="40" height="40">
