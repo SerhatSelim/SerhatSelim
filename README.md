@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SerhatSelim&layout=compact)
 
 
-![](https://github-readme-stats.vercel.app/api?include_all_commits=true&hide_title=true&username=SerhatSelim&count_private=true&show_icons=true&theme=graywhite) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SerhatSelim&layout=compact)
+![](https://github-readme-stats.vercel.app/api?include_all_commits=true&hide_title=true&username=SerhatSelim&count_private=true&show_icons=true&theme=graywhite) 
 
 
 [![](https://img.shields.io/badge/medium-serhatselim.medium-blue)](https://serhatselim.medium.com/)
