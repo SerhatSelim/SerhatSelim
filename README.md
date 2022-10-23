@@ -68,6 +68,9 @@ Here are some ideas to get you started:
    <a href="https://github.com/topics/jenkins">
   <img src="https://raw.githubusercontent.com/github/explore/4546263bd5739353083c33dada43f8f31e7d1fd6/topics/jenkins/jenkins.png" alt="jenkins" width="40" height="40">
   </a>
+     <a href="https://github.com/topics/git">
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="git" width="40" height="40">
+  </a>
 </p>
 
 ### 📫 How to reach me: 
