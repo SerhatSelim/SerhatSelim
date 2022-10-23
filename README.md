@@ -21,6 +21,18 @@ Here are some ideas to get you started:
 ![](https://github-readme-stats.vercel.app/api?include_all_commits=true&hide_title=true&username=SerhatSelim&count_private=true&show_icons=true&theme=graywhite) 
 
 
+ ### 🧰 Languages and Tools
+<p align="left">
+  <a href="https://github.com/dotnet">
+  <img src="https://avatars.githubusercontent.com/u/9141961?s=200&v=4" alt="dotnet" width="40" height="40"/> 
+  </a>
+ <a href="https://github.com/spring-projects">
+   <img src="https://avatars.githubusercontent.com/u/317776?s=200&v=4" alt="spring" width="40" height="40">
+</a>
+</p>
+
+
+
 [![](https://img.shields.io/badge/medium-serhatselim.medium-blue)](https://serhatselim.medium.com/)
 [![Linkedin: serhatselim](https://img.shields.io/badge/-serhatselim-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/serhat-selim)](https://www.linkedin.com/in/serhat-selim)
 
