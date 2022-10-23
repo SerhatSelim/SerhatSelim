@@ -19,3 +19,8 @@ Here are some ideas to get you started:
 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=SerhatSelim&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+
+[![](https://img.shields.io/badge/medium-serhatselim.medium-blue)](https://serhatselim.medium.com/)
+[![Linkedin: serhatselim](https://img.shields.io/badge/-serhat-selim-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/serhat-selim/)](https://www.linkedin.com/in/serhat-selim/)
+
