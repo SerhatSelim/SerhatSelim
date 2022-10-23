@@ -65,6 +65,18 @@ Here are some ideas to get you started:
    <a href="https://github.com/topics/azure">
   <img src="https://raw.githubusercontent.com/github/explore/eaef8552d8b082ffafe2bfc8a5023d47da904aac/topics/azure/azure.png" alt="azure" width="40" height="40">
   </a>
+   <a href="https://github.com/topics/redis">
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redis/redis.png" alt="redis" width="40" height="40">
+  </a>
+   <a href="https://github.com/topics/elasticsearch">
+  <img src="https://raw.githubusercontent.com/github/explore/d73b58ded658144cd29547485b8537306012eb86/topics/elasticsearch/elasticsearch.png" alt="elasticsearch" width="40" height="40">
+  </a>
+    <a href="https://github.com/topics/kafka">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Apache_kafka_wordtype.svg/2560px-Apache_kafka_wordtype.svg.png" alt="kafka" width="40" height="40">
+  </a>
+   <a href="https://github.com/topics/rabbitmq">
+  <img src="https://avatars.githubusercontent.com/u/96669?s=200&v=4" alt="rabbitmq" width="40" height="40">
+  </a>  
    <a href="https://github.com/topics/jenkins">
   <img src="https://raw.githubusercontent.com/github/explore/4546263bd5739353083c33dada43f8f31e7d1fd6/topics/jenkins/jenkins.png" alt="jenkins" width="40" height="40">
   </a>
