@@ -1,5 +1,5 @@
 ### Hi there 👋
-🌱 I’m currently learning
+⛵️ I’m currently learning
 <!--
 **SerhatSelim/SerhatSelim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 - 🎖 Certificates
 - 🧰 Tools
 - 🥅 Goals
+- 🐱 ☁ 🐧 🐳 ☸️ ⛵️
 -->
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SerhatSelim&layout=compact)
