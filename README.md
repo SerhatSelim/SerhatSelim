@@ -24,6 +24,9 @@ Here are some ideas to get you started:
 
 ![](https://github-readme-stats.vercel.app/api?include_all_commits=true&hide_title=true&username=SerhatSelim&count_private=true&show_icons=true&theme=graywhite) 
 
+<p align='center' style='margin: 16px 4px 8px;'>
+    <img src="./dev-working_rounded.gif" alt="working developer">
+</p>
 
  ### :octocat: Starred Topics
 <p align="left">
